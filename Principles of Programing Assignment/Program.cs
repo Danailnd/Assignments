@@ -57,8 +57,6 @@ namespace Principles_of_Programing_Assignment
             Console.WriteLine("Student " + student.full_name +"'s average score is " + student.average_scores + ".");
             Console.WriteLine("Student " + student.full_name + " is living in " + address.city + ".");
             Console.WriteLine("Student " + student.full_name + "'s address is " + address.full_address + ".");
-            Console.WriteLine(" Please override the ToString() method to display detailed information about student ");
-
 
 
             Console.ReadLine();
